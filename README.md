@@ -1,2 +1,2 @@
 # QitSMS
-Qingdao Institution of Technology
+工资查询后台系统
